@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, Business Anylist, ENTERPRENUER, BIKER and a bunch of
+      I’m a developer, Business Anylist, ENTERPRENUER, pro-BIKR and a bunch of
       other impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
