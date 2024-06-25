@@ -17,9 +17,12 @@ sections:
       I'm a Developer, Innovator,PRO-BIEKR AND bunch of other impressive titles
       and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a passionate advocate for digitalization and innovation, dedicated to
+      exploring and leveraging technology to drive progress and efficiency. With
+      a diverse skill set and a wealth of experience, I combine technical
+      expertise with a strong understanding of business strategy to bridge the
+      gap between technology and practical applications. Here’s an overview of
+      my professional journey and achievements.
     styles:
       self:
         height: auto
