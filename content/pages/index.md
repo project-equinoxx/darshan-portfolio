@@ -54,7 +54,7 @@ sections:
     quote: |+
       > “Mostly Curious, Sometimes Savage”
 
-    name: Johnna Doe
+    name: '-Darshan'
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
