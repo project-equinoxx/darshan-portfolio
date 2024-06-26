@@ -52,7 +52,9 @@ sections:
     actions: []
   - type: QuoteSection
     quote: |+
-      > “Mostly Curious, Sometimes Savage”
+      > “Mostly Curious, 
+      >
+      > Sometimes Savage”
 
     name: '                                           -Darshan'
     title: ''
