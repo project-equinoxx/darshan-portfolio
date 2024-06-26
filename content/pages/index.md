@@ -50,6 +50,32 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: QuoteSection
+    quote: |+
+      > “Mostly Curious, Sometimes Savage”
+
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
