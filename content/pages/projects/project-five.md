@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Technical Support Executive
-date: '2019-05-01'
+date: ''
 client: ''
 description: Valethi Technologies
 featuredImage:
