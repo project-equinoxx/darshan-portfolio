@@ -8,7 +8,7 @@ description: Galactic Group
 featuredImage:
   type: ImageBlock
   url: /images/galactic_group_llc_logo.jpeg
-  altText: Project thumbnail image
+  altText: Galactic Group Logo
 media:
   type: ImageBlock
   url: /images/bg3.jpg
