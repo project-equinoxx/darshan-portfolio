@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-05-01'
 client: ''
 description: >-
-  Himalayan Institute of Alternatives, Ladakh (HIAL).       01/05/2024 to
+  Himalayan Institute of Alternatives, Ladakh (HIAL).        01/05/2024 to
   Present
 featuredImage:
   type: ImageBlock
