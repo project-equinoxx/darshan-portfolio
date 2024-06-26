@@ -67,7 +67,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-four.md
       - content/pages/projects/project-five.md
-    colors: colors-a
+    colors: colors-f
     variant: variant-d
     elementId: ''
     showDate: false
