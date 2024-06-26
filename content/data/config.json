@@ -41,6 +41,14 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "www.instagram.com/darshxx_",
+                "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "label": "Instagram",
                 "altText": "",
                 "url": "www.instagram.com/darshxx_",
