@@ -7,7 +7,7 @@ client: ''
 description: Galactic Group
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/galactic_group_llc_logo.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
