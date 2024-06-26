@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Bachelor of Business Administration - BBA
 date: '2020-03-01'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
