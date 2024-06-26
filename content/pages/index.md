@@ -51,7 +51,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedProjectsSection
-    subtitle: 'Professional Experiance:'
+    subtitle: 'Professional Experience:'
     actions:
       - type: Link
         label: See all projects
