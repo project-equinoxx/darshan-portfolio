@@ -83,7 +83,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Education
     actions:
       - type: Link
         label: See all projects
