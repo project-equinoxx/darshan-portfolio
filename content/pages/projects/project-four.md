@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Balvihar Kindergarten
 date: '2020-02-01'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
