@@ -54,7 +54,7 @@ sections:
     quote: |+
       > “Mostly Curious, Sometimes Savage”
 
-    name: '-Darshan'
+    name: '                                           -Darshan'
     title: ''
     colors: colors-f
     elementId: ''
