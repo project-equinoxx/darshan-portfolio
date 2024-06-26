@@ -55,7 +55,7 @@ sections:
       > “Mostly Curious, Sometimes Savage”
 
     name: '-Darshan'
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
