@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Master of Computer Application (MCA) in Artificial Intelligence
 date: '2023-02-01'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Jain University, Banglore'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
