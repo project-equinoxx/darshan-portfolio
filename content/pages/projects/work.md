@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Professional Experience
 date: '2019-01-01'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
