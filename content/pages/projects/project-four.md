@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Business
+title: Business Operations Manager
 date: '2020-02-01'
 client: ''
 description: >-
