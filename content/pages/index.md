@@ -85,7 +85,8 @@ sections:
   - type: FeaturedProjectsSection
     subtitle: Education
     actions: []
-    projects: []
+    projects:
+      - content/pages/projects/project-six.md
     colors: colors-c
     variant: variant-d
     elementId: ''
