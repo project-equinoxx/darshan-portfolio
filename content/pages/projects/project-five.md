@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Technical Support Executive
 date: '2019-05-01'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Valethi Technologies
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
