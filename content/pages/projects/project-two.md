@@ -7,7 +7,7 @@ client: ''
 description: 'Himalayan Institute of Alternatives, Ladakh (HIAL).'
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/HIAL Logo Short.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
