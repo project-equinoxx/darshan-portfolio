@@ -4,10 +4,7 @@ title: Information Technology Engineer
 colors: colors-a
 date: '2021-05-01'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Galactic Group
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
