@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Exective Assistent
+title: Executive Assistent
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
