@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/HIAL Logo Short.png
   altText: HIAL Logo
+  elementId: logo
 media:
   type: ImageBlock
   url: /images/bg1.jpg
