@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Bachelor of Business Administration - BBA
 date: '2020-03-01'
-client: Awesome client
+client: ''
 description: 'Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur'
 featuredImage:
   type: ImageBlock
