@@ -4,14 +4,14 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/IMG_20210903_005958.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: >-
       I'm a Developer, Innovator,PRO-BIEKR AND bunch of other impressive titles
@@ -51,7 +51,7 @@ sections:
     type: HeroSection
     actions: []
   - type: ContactSection
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
     form:
