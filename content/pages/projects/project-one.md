@@ -4,9 +4,7 @@ title: Executive Assistant to CEO/Project Manager
 colors: colors-a
 date: '2024-05-01'
 client: ''
-description: >-
-  Himalayan Institute of Alternatives, Ladakh (HIAL).        01/05/2024 to
-  Present
+description: 'Himalayan Institute of Alternatives, Ladakh (HIAL). '
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
