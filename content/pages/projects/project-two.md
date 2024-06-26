@@ -8,7 +8,7 @@ description: 'Himalayan Institute of Alternatives, Ladakh (HIAL).'
 featuredImage:
   type: ImageBlock
   url: /images/HIAL Logo Short.png
-  altText: Project thumbnail image
+  altText: HIAL Logo
 media:
   type: ImageBlock
   url: /images/bg2.jpg
