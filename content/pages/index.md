@@ -87,6 +87,7 @@ sections:
     actions: []
     projects:
       - content/pages/projects/project-six.md
+      - content/pages/projects/project-seven.md
     colors: colors-c
     variant: variant-d
     elementId: ''
