@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Balvihar Kindergarten
+title: Business
 date: '2020-02-01'
 client: ''
 description: >-
