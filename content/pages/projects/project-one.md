@@ -12,7 +12,7 @@ featuredImage:
   elementId: logo
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/5.jpg
   altText: Project image
 ---
 //Content/Experience to be updated
