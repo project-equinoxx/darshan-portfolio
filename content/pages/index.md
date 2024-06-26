@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: >-
       I'm a Developer, Innovator,PRO-BIEKR AND bunch of other impressive titles
