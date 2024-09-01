@@ -52,7 +52,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ':)'
     images:
       - type: ImageBlock
         url: /images/20230305_090757-01-01.jpeg
