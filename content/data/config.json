@@ -66,7 +66,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+91 92844 76036",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "darshxx_@outlook.com",
             "emailAltText": "My email",
