@@ -51,38 +51,6 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedProjectsSection
-    subtitle: 'Professional Experience:'
-    actions: []
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-four.md
-      - content/pages/projects/project-five.md
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-  - type: FeaturedProjectsSection
     subtitle: Education
     actions: []
     projects:
