@@ -50,35 +50,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: FeaturedProjectsSection
-    subtitle: Education
-    actions: []
-    projects:
-      - content/pages/projects/project-six.md
-      - content/pages/projects/project-seven.md
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
